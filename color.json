@@ -1,0 +1,10 @@
+{
+  "theme": {
+    "name": "dark_softRed",
+    "colors": {
+      "text": "#D6D6D6",
+      "background": "#121212",
+      "accent": "#B30000"
+    }
+  }
+}
